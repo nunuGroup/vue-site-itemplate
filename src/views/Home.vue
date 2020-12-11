@@ -289,7 +289,7 @@ export default {
 }
 
 .landing-title {
-  background-image: url('../assets/UPRISEMGMT.png');
+  background-image: url('../assets/sample-logo-white.png');
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;

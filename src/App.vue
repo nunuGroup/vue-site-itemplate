@@ -114,7 +114,7 @@ html {
   height: 200px;
   //background: pink;  
   transition: 2s cubic-bezier(0.65, 0, 0.35, 1);
-  background-image: url('assets/emblem.png');
+  background-image: url('assets/sample-emblem-white.png');
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
